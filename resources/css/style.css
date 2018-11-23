@@ -23,18 +23,17 @@ p {
   font-size: 14px;
 }
 
-<<<<<<< HEAD
 h1
 h2,
 h3,
 a {
-=======
-h1, h2, h3, a {
->>>>>>> 57ed75eada9cc08b576ad0147985f1a71682764c
   font-weight: 700;
 }
 
-h1,a, #design, footer {
+h1,
+a,
+footer,
+#design {
   color: white;
 }
 
